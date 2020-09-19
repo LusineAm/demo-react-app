@@ -42,7 +42,7 @@ class Product extends Component {
                     }
                 </button>
                 {
-                    showText && <p>Hello, i'm simple text</p>
+                    showText && <p> Hello, i'm simple text</p>
                 }
                 <Name name={name} /> &nbsp;
                 <Price price={price} /> &nbsp;

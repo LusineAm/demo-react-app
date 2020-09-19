@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Input extends Component {
     state = {
         value: '',
-        showValue: ''
+        showValue: '',
     };
     handleChange = (event) => {
         // console.log(event.target.value);
