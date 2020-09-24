@@ -1,0 +1,10 @@
+.greenClass {
+    color: green;
+    font-size: 25px;
+    border: 1px solid black;
+}
+.yellowClass {
+    color: yellow;
+    font-size: 20px;
+    border: 1px solid blue;
+}
